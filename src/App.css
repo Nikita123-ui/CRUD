@@ -1,0 +1,12 @@
+.toastBarBtn{
+    border-radius: 16px;
+    border: 1px solid #999;
+    background: transparent;
+    padding: 8px 16px;
+    margin: 5px;
+}
+.toastBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,36 @@
+.breadBoxContainer h1{
+    text-align: center;
+    margin: 20px;
+}
+.breadbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 30px;
+    border: 1px solid #777;
+    /* margin:5px; */
+   max-width: 800px;
+   margin: 5px auto;
+}
+.breadbox ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.breadbox ul li {
+    padding: 0 5px;
+}
+.type {
+    margin: 0;
+    color: crimson;
+    font-weight: 500;
+    margin-right: 10px;
+}
+button{
+    border: none;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 600;
+}
